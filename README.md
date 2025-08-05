@@ -1,6 +1,7 @@
 # FIAP-IADEVS-TC2
 
-Equipe: <br> João Helton RM364239 <br>
+Equipe: <br> 
+João Helton RM364239 <br>
 João Almeida Furtado Neto RM364164 <br>
 Murilo Polli RM364642 <br>
 Rafael Pinheiro RM363960 <br> 
@@ -15,7 +16,7 @@ Arquivos:<br>
   Notebook com mutação de 5%: Equipe_Fiap_Fase_2_AGs_ORIGINAL_MUT5.ipynb <br>
   Notebook com mutação de 10%: Equipe_Fiap_Fase_2_AGs_ORIGINAL_MUT10.ipynb <br>
 
-Problematica:<br>
+Problemática:<br>
   Utilizando os dados dos financiamentos do Programa Minha Casa Minha Vida do Governo Federal e associando ao problema da mochila, iremos desenvolver um algoritmo genético para maximizar o uso do subsidio do governo federal, dado que os recursos são finitos e devemos atingir o maior número de famílias possíveis.<br>
 
   Dado essa problemática, fizemos um estudo que utiliza apenas mil linhas de dados para acharmos uma solução ótima.<br>
@@ -28,9 +29,16 @@ Problematica:<br>
   <img width="1138" height="547" alt="image" src="https://github.com/user-attachments/assets/24c2b96a-e57e-462a-abf6-8f7b7c5ce924" />
 
 
-Destacamos que além dessa sistematica de tentar máximizar o uso do recurso do governo federal para subsídios, podemos botar outras váriaveis, como o 
+Destacamos os trabalhos futuros a serem desenvolvidos:
+1) Adicionar uma outra variável para limitação de orçamento global, ficando 2, uma para subsídio e outra para orçamento global. <br>
+2) Limitar orçamento por faixa de renda*, faixa de renda 1, 2,3 ou 4. Por exemplo, 60% para a faixa 1, 30% para a faixa 2 e 5% para faixa 3 e  5% para a faixa 4.
+3) Em vez de selecionar contratos individuais, o objetivo aqui é encontrar um conjunto de regras ou um perfil de contrato que seja "ideal" segundo múltiplos critérios. Por exemplo: qual perfil de cliente/imóvel oferece o melhor "custo-benefício social"?
 
-  
+*<br>
+Faixa 1: famílias com renda de até R$ 2.850 mensais;<br>
+Faixa 2: famílias com renda de até R$ 4,7 mil mensais;<br>
+Faixa 3: famílias com renda de até R$ 8,6 mil mensais.
+Faixa 4: famílias com renda de até R$ 12.000  
 
 
 
