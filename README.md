@@ -1,6 +1,6 @@
 # FIAP-IADEVS-TC2
 
-Equipe: João Helton RM364239
+Equipe: João Helton RM364239 <br>
 // João Almeida Furtado Neto RM364164 // 
 Murilo Polli RM364642 // 
 Rafael Pinheiro RM363960 // 
