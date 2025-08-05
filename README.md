@@ -27,25 +27,25 @@ Problemática:<br>
 Destacamos que incluímos o mesmo SEED para a função random.
 
 Para Mutações de 5%
-
---- Melhor Solução Encontrada ---
-Número de Unidades Habitacionais (Benefício) Financiadas: 312
-Número de Contratos Selecionados: 312
-Custo Total do Subsídio: R$ 999,962.75
-Orçamento Total Disponível: R$ 1,000,000.00
-Percentual do Orçamento Utilizado: 100.00%
+<br>
+--- Melhor Solução Encontrada --- <br>
+Número de Unidades Habitacionais (Benefício) Financiadas: 312 <br>
+Número de Contratos Selecionados: 312 <br>
+Custo Total do Subsídio: R$ 999,962.75 <br>
+Orçamento Total Disponível: R$ 1,000,000.00 <br>
+Percentual do Orçamento Utilizado: 100.00% <br>
 
   <img width="1135" height="544" alt="image" src="https://github.com/user-attachments/assets/c82ef08a-0520-44ec-9481-f35182d0db81" /> <br><br>
 
 
 Para Mutações de 10%
-
---- Melhor Solução Encontrada ---
-Número de Unidades Habitacionais (Benefício) Financiadas: 314
-Número de Contratos Selecionados: 314
-Custo Total do Subsídio: R$ 998,762.61
-Orçamento Total Disponível: R$ 1,000,000.00
-Percentual do Orçamento Utilizado: 99.88%
+<br>
+--- Melhor Solução Encontrada --- <br>
+Número de Unidades Habitacionais (Benefício) Financiadas: 314 <br>
+Número de Contratos Selecionados: 314 <br>
+Custo Total do Subsídio: R$ 998,762.61 <br>
+Orçamento Total Disponível: R$ 1,000,000.00 <br>
+Percentual do Orçamento Utilizado: 99.88% <br>
 
 
   <img width="1138" height="547" alt="image" src="https://github.com/user-attachments/assets/24c2b96a-e57e-462a-abf6-8f7b7c5ce924" />
