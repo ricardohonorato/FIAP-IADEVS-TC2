@@ -37,8 +37,8 @@ Destacamos os trabalhos futuros a serem desenvolvidos:
 *<br>
 Faixa 1: famílias com renda de até R$ 2.850 mensais;<br>
 Faixa 2: famílias com renda de até R$ 4,7 mil mensais;<br>
-Faixa 3: famílias com renda de até R$ 8,6 mil mensais.
-Faixa 4: famílias com renda de até R$ 12.000  
+Faixa 3: famílias com renda de até R$ 8,6 mil mensais; <br>
+Faixa 4: famílias com renda de até R$ 12.000;
 
 
 
