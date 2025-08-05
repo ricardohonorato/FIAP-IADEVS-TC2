@@ -1,6 +1,10 @@
 # FIAP-IADEVS-TC2
 
-Equipe: João Helton RM364239 // João Almeida Furtado Neto RM364164 // Murilo Polli RM364642 // Rafael Pinheiro RM363960 // Ricardo Honorato RM364026 //
+Equipe: João Helton RM364239
+// João Almeida Furtado Neto RM364164 // 
+Murilo Polli RM364642 // 
+Rafael Pinheiro RM363960 // 
+Ricardo Honorato RM364026 //
 
 Arquivos:
   Base de dados Mil registros do MCMV: AMOSTRA_1K_dados_abertos_FGTS_ANALITICO_202505.csv
