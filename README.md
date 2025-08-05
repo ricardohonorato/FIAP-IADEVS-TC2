@@ -1,11 +1,14 @@
 # FIAP-IADEVS-TC2
 
-Equipe: <br> João Helton RM364239 <br>
+Equipe: <p> <br> João Helton RM364239 <br>
 João Almeida Furtado Neto RM364164 <br>
 Murilo Polli RM364642 <br>
 Rafael Pinheiro RM363960 <br> 
 Ricardo Honorato RM364026 <br>
+</p>
 
+VIDEO Youtube Explicativo = https://youtu.be/4z36mZQ6GOs <br>
+  
 Arquivos:<br>
   Base de dados Mil registros do MCMV: AMOSTRA_1K_dados_abertos_FGTS_ANALITICO_202505.csv <br>
   Base de dados 100 mil registros do MCMV: AMOSTRA_100K_dados_abertos_FGTS_ANALITICO_202505 (1).csv <br>
@@ -29,8 +32,6 @@ Problematica:<br>
 
 
 
-Sistema de Gerenciamento de Produtos com Otimização de Carga
 
 
-VIDEO Youtube Explicativo = https://youtu.be/4z36mZQ6GOs
 
